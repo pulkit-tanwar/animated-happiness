@@ -16,5 +16,5 @@ This project is a website for users to rank Cellphones and provide reviews.
 
 Pramit Singh
 
-
+Web Technology Lab Project @Delhi Technological University
 
