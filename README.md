@@ -2,9 +2,9 @@
 
 This project is a website for users to rank Cellphones and provide reviews.
 
-### Frontend Implementation: HTML, CSS, jQuery, Javascript, AngularJS
+## Frontend Implementation: HTML, CSS, jQuery, Javascript, AngularJS
 
-### Backend Implementation: PHP
+## Backend Implementation: PHP
 
 #### Project Developers
 
